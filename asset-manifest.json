@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/reactport/static/css/main.31d6cfe0.css",
+    "main.js": "/reactport/static/js/main.93757ea6.js",
+    "index.html": "/reactport/index.html",
+    "main.93757ea6.js.map": "/reactport/static/js/main.93757ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.93757ea6.js"
+  ]
+}
